@@ -61,7 +61,7 @@ dependencies:
   open_file: ^3.5.10 #open_filex: ^4.4.0
   google_maps_webservice: ^0.0.20-nullsafety.5
   #google_api_headers: ^4.1.2
-  device_info_plus: ^12.1.0
+  device_info_plus: ^10.1.2
   google_fonts: ^6.2.1
   photo_view: ^0.15.0
   quill_html_editor: ^2.2.8
