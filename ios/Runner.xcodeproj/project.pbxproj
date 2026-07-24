@@ -395,6 +395,7 @@
 				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 88MWA74MV9;
 			CODE_SIGN_STYLE = Manual;
+			CODE_SIGN_IDENTITY = "Apple Distribution";
 			PROVISIONING_PROFILE_SPECIFIER = "OTW Grocers Partner";
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "\"<Multiple values>\"";
@@ -534,6 +535,7 @@
 				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 88MWA74MV9;
 			CODE_SIGN_STYLE = Manual;
+			CODE_SIGN_IDENTITY = "Apple Distribution";
 			PROVISIONING_PROFILE_SPECIFIER = "OTW Grocers Partner";
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "\"<Multiple values>\"";
@@ -564,6 +566,7 @@
 				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 88MWA74MV9;
 			CODE_SIGN_STYLE = Manual;
+			CODE_SIGN_IDENTITY = "Apple Distribution";
 			PROVISIONING_PROFILE_SPECIFIER = "OTW Grocers Partner";
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "\"<Multiple values>\"";
