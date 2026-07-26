@@ -49,10 +49,11 @@ jobs:
 
       - name: Build IPA
         run: |
-          flutter build ipa --export-options-plist=ios/ExportOptions.plist --verbose
+          flutter build ipa --export-options-plist=ios/ExportOptions.plist
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
         with:
           name: otwgrocers-seller-ipa
           path: build/ios/ipa/*.ipa
+
