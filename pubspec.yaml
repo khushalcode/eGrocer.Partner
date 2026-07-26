@@ -81,7 +81,7 @@ dependency_overrides:
     git:
       url: https://github.com/abdelaziz-mahdy/flutter_file_picker
       ref: fix-flutter-3.27-compile-error
-  vector_math: ^2.1.4
+  vector_math: 2.1.4
 
 flutter:
   uses-material-design: true
